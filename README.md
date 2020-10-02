@@ -1,8 +1,12 @@
 # second_EDA_Project
 
-Crowdfunding is a method of funding a small project or venture by raising capital from large numbers of people, typically via internet. 
+Kickstarter is a US based global crowd funding platform focused on bringing funding to creative projects. 
+Since the platform’s launch in 2009, the site has hosted over [189.131](https://www.kickstarter.com/help/stats?lang=de) successfully funded projects with over 5.316.550.434 $ and 18.623.561 million unique backers. 
+Kickstarter uses an “all-or-nothing” funding system. This means that funds are only dispersed for projects that meet the original funding goal set by the creator.
 
-Since its establishment in 2009, Kickstarter successfully pledged $3.4 billion for 134,000+ projects were backed by 14 million people. However, the success rate of campaigns is only 35.88% tell us that not every campaign comes out as a winner. The project envisages to predict the outcome of a campaign.
+However, the success rate of campaigns is only XX% tell us that not every campaign comes out as a winner. 
+
+The project is about predicting if a kickstarter project is going to be successful or not.
 
 
 ### Data & SetUp
@@ -16,3 +20,9 @@ To get an better feeling, we took our time to check each column and tried to fig
 After that we started with the online research to get some background information about kickstarter. 
 
 ### Data Cleaning & Preparation 
+
+### Modelling 
+
+### Hyperparameter Optimization
+
+### Conclusion
