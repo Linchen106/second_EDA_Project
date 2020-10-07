@@ -25,7 +25,7 @@ After that we started with the online research to get some background informatio
 
 ### Data Preparation & Exploration
 In the second step it took quiet a while to explore all our features and our target variable (state: successful or failed). 
-In this notebook you can find everything in detail. 
+In this [notebook[(https://github.com/Ela-Bo/second_EDA_Project/blob/main/EDA.ipynb) you can find everything in detail. 
 
 ### Modelling & Hyperparameter Optimization
 Before we started with different models a feature selection was performed to select the predictors which play a significant role in explaining if a project is going to be successful or not. In this notbook you can find two different models (logistic regression and random forest) as our basemodel. And in this notebook you can find different models (AdaBoost, XGBoost and SVM) on our final model. For each method, we tweaked the value of parameters to get the best set out of it.
