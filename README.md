@@ -23,10 +23,11 @@ For example we checked the shape, null values und the columns.
 To get an better feeling, we took our time to check each column and tried to figure out the meaning. 
 After that we started with the online research to get some background information about kickstarter. 
 
-### Data Cleaning & Preparation 
+### Data Preparation & Exploration
+In the second step it took quiet a while to explore all our features and our target variable (state: successful or failed). 
+In this notebook you can find everythin in detail. 
 
-### Modelling 
+### Modelling & Hyperparameter Optimization
+Before we started with different models a feature selection was performed to select the predictors which play a significant role in explaining if a project is going to be successful or not. In this notbook you can find two different models (logistic regression and random forest) as our basemodel. And in this notebook you can find different models (AdaBoost, XGBoost and SVM) on our final model. For each method, we tweaked the value of parameters to get the best set out of it.
 
-### Hyperparameter Optimization
-
-### Conclusion
+Alright...let's dive in!
